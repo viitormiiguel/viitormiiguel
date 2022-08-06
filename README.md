@@ -3,18 +3,12 @@
 I am a first year Computer Vision Ph.D. student at [PUCRS](https://www.pucrs.br/), Brazil. Apart from that I am Data Scientist and ML developer at Hygia Saúde. 
 
 **My Reseach Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
- **I am open to**:
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Facial Expression Recognition
+- Facial Reaction Analysis
+- CNN training
+- Sentimental Analysis on text
+- Financial Analysis on news
+- Data Health Analysis
 
 **Recent Update**:
 - **December 2021**: Completed Deep Learning Nano Degree by Udacity. [[Certificate]](https://graduation.udacity.com/confirm/SWLALPXD)
