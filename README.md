@@ -10,21 +10,17 @@ I am a first year Computer Vision Ph.D. student at [PUCRS](https://www.pucrs.br/
 - Financial Analysis on news
 - Data Health Analysis
 
-**Recent Update**:
-- **December 2021**: Completed Deep Learning Nano Degree by Udacity. [[Certificate]](https://graduation.udacity.com/confirm/SWLALPXD)
-- **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
-- **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
-- **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org/verify/96KFJPPTU3J7)
+**Papers**:
+- **2021**: Towards the Creation of Spontaneous Datasets Based on Youtube Reaction Videos. [Page](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_16)
+- **2019**: Análises de Sentimentos: abordagem lexical de classificação de opinião no contexto mercado financeiro brasileiro.
+- **2018**: SMART–JaCaMo: An Organisation-Based Team for the Multi-Agent Programming Contest [Page](https://link.springer.com/chapter/10.1007/978-3-030-37959-9_4).
 
-**Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
 
 ## Skills:
 
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -47,8 +43,6 @@ I am a first year Computer Vision Ph.D. student at [PUCRS](https://www.pucrs.br/
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
 #### IDEs
 
