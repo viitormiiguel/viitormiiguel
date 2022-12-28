@@ -11,9 +11,9 @@ I am a first year Computer Vision Ph.D. student at [PUCRS](https://www.pucrs.br/
 - Data Health Analysis
 
 **Papers**:
-- **2021**: Towards the Creation of Spontaneous Datasets Based on Youtube Reaction Videos. [Page](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_16)
-- **2019**: Análises de Sentimentos: abordagem lexical de classificação de opinião no contexto mercado financeiro brasileiro [Page](https://github.com/viitormiiguel/AnalysisFinancial/blob/master/WAIAF_2019_paper_6.pdf).
-- **2018**: SMART–JaCaMo: An Organisation-Based Team for the Multi-Agent Programming Contest [Page](https://link.springer.com/chapter/10.1007/978-3-030-37959-9_4).
+- **2021**: Towards the Creation of Spontaneous Datasets Based on Youtube Reaction Videos. [Paper Page](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_16)
+- **2019**: Análises de Sentimentos: abordagem lexical de classificação de opinião no contexto mercado financeiro brasileiro. [Paper Page](https://github.com/viitormiiguel/AnalysisFinancial/blob/master/WAIAF_2019_paper_6.pdf)
+- **2018**: SMART–JaCaMo: An Organisation-Based Team for the Multi-Agent Programming Contest. [Paper Page](https://link.springer.com/chapter/10.1007/978-3-030-37959-9_4)
 
 
 ## Skills:
